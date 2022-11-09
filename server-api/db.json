@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "9972b653-3808-4f6b-9d86-4ac122d9e047",
+      "name": "Pavan",
+      "email": "pavan@gmail.com"
+    },
+    {
+      "id": "22023838-5b81-4cbe-93a9-5085e2ce6c5e",
+      "name": "Test Care team",
+      "email": "pavan@gmail.com"
+    },
+    {
+      "id": "0cdf7590-ada0-44b1-8902-4c95b79ffaa6",
+      "name": "Test Organization People",
+      "email": "tas"
+    }
+  ]
+}
